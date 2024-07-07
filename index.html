@@ -29,8 +29,16 @@
 
   <title>SeisAdmin</title>
   <link rel="manifest" href="manifest.json">
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRhai1qxq77YUR8JZxCxy4INslx6tkT7g"></script>
-  <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
+  <script>
+    document.addEventListener("google-maps-api-key-loaded", function (){
+      var googleapis = window.GOOGLE_MAPS_API_KEY;
+      var script = document.createElement('script');
+      script.src = "https://maps.googleapis.com/maps/api/js?key=" + googleapis;
+      script.defer = true;
+      script.async = true;
+      document.head.appendChild(script);
+    });
+  </script>
   <style id="splash-screen-style">
     html {
       height: 100%
