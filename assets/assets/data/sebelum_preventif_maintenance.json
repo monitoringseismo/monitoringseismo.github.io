@@ -1,0 +1,134 @@
+[
+  {
+    "label": "Sebelum Preventif Maintenance",
+    "key": "",
+    "items": [
+      {
+        "label": "Kondisi Shelter 4 Sisi",
+        "key": "sebelum_pm",
+        "fields": [
+          {
+            "type": "image",
+            "label": "Sisi 1 (Depan)",
+            "file": null,
+            "image": null,
+            "key": "knds_shelter_sisi1"
+          },
+          {
+            "type": "image",
+            "label": "Sisi 2 (Tampak Sebelah kanan)",
+            "file": null,
+            "image": null,
+            "key": "knds_shelter_sisi2"
+          },
+          {
+            "type": "image",
+            "label": "Sisi 3 (Tampak sebelah belakang)",
+            "file": null,
+            "image": null,
+            "key": "knds_shelter_sisi3"
+          },
+          {
+            "type": "image",
+            "label": "Sisi 4 (Tampak sebelah kiri)",
+            "file": null,
+            "image": null,
+            "key": "knds_shelter_sisi4"
+          }
+        ]
+      },
+      {
+        "label": "Solar Cell",
+        "key": "sebelum_pm",
+        "fields": [
+          {
+            "type": "image",
+            "label": "Kondisi",
+            "file": null,
+            "image": null,
+            "key": "solar_cell_kondisi"
+          }
+        ]
+      },
+      {
+        "label": "Antena Parabola",
+        "key": "sebelum_pm",
+        "fields": [
+          {
+            "type": "image",
+            "label": "Kondisi",
+            "file": null,
+            "image": null,
+            "key": "antenna_kondisi"
+          }
+        ]
+      },
+      {
+        "label": "Sistem Power (Accu)",
+        "key": "sebelum_pm",
+        "fields": [
+          {
+            "type": "image",
+            "label": "Kondisi",
+            "file": null,
+            "image": null,
+            "key": "sistem_power_accu_kondisi"
+          }
+        ]
+      },
+      {
+        "label": "Listrik PLN",
+        "key": "sebelum_pm",
+        "fields": [
+          {
+            "type": "image",
+            "label": "Kondisi",
+            "file": null,
+            "image": null,
+            "key": "pln_kondisi"
+          }
+        ]
+      },
+      {
+        "label": "Sistem Power (Solar Regulator)",
+        "key": "sebelum_pm",
+        "fields": [
+          {
+            "type": "image",
+            "label": "Kondisi",
+            "file": null,
+            "image": null,
+            "key": "sistem_power_regulator_kondisi"
+          }
+        ]
+      },
+      {
+        "label": "Peralatan Seismik",
+        "key": "sebelum_pm",
+        "fields": [
+          {
+            "type": "image",
+            "label": "Seismograf",
+            "file": null,
+            "image": null,
+            "key": "seismik_seismograf"
+          },
+          {
+            "type": "image",
+            "label": "Accelerometer",
+            "file": null,
+            "image": null,
+            "key": "seismik_accelerometer"
+          },
+          {
+            "type": "image",
+            "label": "Modem Komunikasi",
+            "file": null,
+            "image": null,
+            "key": "seismik_modem"
+          }
+        ]
+      }
+    ]
+  }
+]

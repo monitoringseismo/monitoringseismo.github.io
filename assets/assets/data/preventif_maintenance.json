@@ -1,0 +1,494 @@
+[
+  {
+    "label": "Pembersihan",
+    "key": "",
+    "items": [
+      {
+        "label": "Pembersihan Lingkungan Shelter",
+        "key": "pembersihan_lingkungan",
+        "fields": [
+          {
+            "type": "option",
+            "label": "Pembersihan Rumput dan Dahan Pohon",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "rumput_dahan"
+          },
+          {
+            "type": "option",
+            "label": "Pembersihan Sarang Laba-Laba",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "sarang"
+          }
+        ]
+      },
+      {
+        "label": "Pembersihan Seluruh Peralatan",
+        "key": "pembersihan_peralatan",
+        "fields": [
+          {
+            "type": "option",
+            "label": "Pembersihan Parabola dan Solar Cell",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "parabola_solarcell"
+          },
+          {
+            "type": "option",
+            "label": "Pembersihan Solar Regulator",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "regulator"
+          },
+          {
+            "type": "option",
+            "label": "Pembersihan Battery",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "battery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Pengecekan Regulator",
+    "key": "",
+    "items": [
+      {
+        "label": "Regulator 1",
+        "key": "regulator1",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      },
+      {
+        "label": "Regulator 2",
+        "key": "regulator2",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      },
+      {
+        "label": "Regulator 3",
+        "key": "regulator3",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      },
+      {
+        "label": "Regulator 4",
+        "key": "regulator4",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      },
+      {
+        "label": "Regulator 5",
+        "key": "regulator5",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      },
+      {
+        "label": "Regulator 6",
+        "key": "regulator6",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      },
+      {
+        "label": "Regulator 7",
+        "key": "regulator7",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      },
+      {
+        "label": "Regulator 8",
+        "key": "regulator8",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Input Solar Panel",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_panel"
+          },
+          {
+            "type": "input",
+            "label": "Input Baterai",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "input_baterai"
+          },
+          {
+            "type": "input",
+            "label": "Input Beban",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "output"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Pengecekan Baterai",
+    "key": "",
+    "items": [
+      {
+        "label": "Baterai 1",
+        "key": "baterai1",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Baterai 2",
+        "key": "baterai2",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Baterai 3",
+        "key": "baterai3",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Baterai 4",
+        "key": "baterai4",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Baterai 5",
+        "key": "baterai5",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Baterai 6",
+        "key": "baterai6",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Baterai 7",
+        "key": "baterai7",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Baterai 8",
+        "key": "baterai8",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Lain-Lain",
+    "key": "",
+    "items": [
+      {
+        "label": "Pengukuran Listrik PLN",
+        "key": "pln",
+        "fields": [
+          {
+            "type": "input",
+            "label": "Informasi",
+            "value": null,
+            "file": null,
+            "image": null,
+            "key": "tegangan"
+          }
+        ]
+      },
+      {
+        "label": "Centering",
+        "key": "centering",
+        "fields": [
+          {
+            "type": "option",
+            "label": "Centering Broadband",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "centering"
+          }
+        ]
+      },
+      {
+        "label": "Leveling",
+        "key": "leveling",
+        "fields": [
+          {
+            "type": "option",
+            "label": "Leveling Sensor Broadband",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "lv_broadband"
+          },
+          {
+            "type": "option",
+            "label": "Leveling Sensor Accelerometer",
+            "value": null,
+            "option_yes_label": "Dilakukan",
+            "option_no_label": "Tidak",
+            "key": "lv_accelerometer"
+          }
+        ]
+      },
+      {
+        "label": "Kondisi Kabel-Kabel",
+        "key": "kabel",
+        "fields": [
+          {
+            "type": "option",
+            "label": "Kondisi Kabel-Kabel",
+            "value": null,
+            "option_yes_label": "Baik",
+            "option_no_label": "Tidak",
+            "key": "kondisi"
+          }
+        ]
+      }
+    ]
+  }
+]
