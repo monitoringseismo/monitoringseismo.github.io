@@ -29,16 +29,6 @@
 
   <title>SeisAdmin</title>
   <link rel="manifest" href="manifest.json">
-  <script>
-    document.addEventListener("google-maps-api-key-loaded", function (){
-      var googleapis = window.GOOGLE_MAPS_API_KEY;
-      var script = document.createElement('script');
-      script.src = "https://maps.googleapis.com/maps/api/js?key=" + googleapis;
-      script.defer = true;
-      script.async = true;
-      document.head.appendChild(script);
-    });
-  </script>
   <style id="splash-screen-style">
     html {
       height: 100%
