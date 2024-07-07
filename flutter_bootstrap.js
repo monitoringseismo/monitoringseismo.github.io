@@ -14,9 +14,3 @@ _flutter.loader.load({
     serviceWorkerVersion: "2540070004"
   }
 });
-
-window.flutterWebRenderer = "html";
-window.addEventListener("beforeinstallprompt", function (e) {
-  e.preventDefault();
-  return false;
-});
