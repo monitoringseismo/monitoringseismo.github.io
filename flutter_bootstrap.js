@@ -8,11 +8,10 @@ if (!window._flutter) {
 }
 _flutter.buildConfig = {"engineRevision":"edd8546116457bdf1c5bdfb13ecb9463d2bb5ed4","builds":[{"compileTarget":"dart2js","renderer":"auto","mainJsPath":"main.dart.js"}]};
 
-
 _flutter.loader.load({
   entrypointUrl: "/main.dart.js",
   serviceWorker: {
-    serviceWorkerVersion: "425911141",
+    serviceWorkerVersion: "21179980",
     serviceWorkerUrl: "/flutter_service_worker.js?v=",
   },
   onEntrypointLoaded: function(engineInitializer) {
