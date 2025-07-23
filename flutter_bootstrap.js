@@ -11,7 +11,7 @@ _flutter.buildConfig = {"engineRevision":"a18df97ca57a249df5d8d68cd0820600223ce2
 _flutter.loader.load({
   entrypointUrl: "/main.dart.js",
   serviceWorker: {
-    serviceWorkerVersion: "3390831820",
+    serviceWorkerVersion: "3553952948",
     serviceWorkerUrl: "/flutter_service_worker.js?v=",
   },
   onEntrypointLoaded: function(engineInitializer) {
