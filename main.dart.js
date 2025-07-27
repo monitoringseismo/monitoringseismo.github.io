@@ -112862,7 +112862,8 @@ if(s==null)s=$.r=B.j
 return s.V(0,null,A.m(this.a).i("ax.T")).a9B(this.b)},
 $S:0}
 A.aEV.prototype={
-$0(){A.D5(null,"Apakah anda yakin menghapus laporan ini?",!0,new A.aER(this.a,this.b),new A.aES(),!0)},
+$0(){var s=this.b,r=s.c
+A.D5(null,"Apakah anda yakin menghapus user "+(r==null?"ini":r)+"?",!0,new A.aER(this.a,s),new A.aES(),!0)},
 $S:0}
 A.aER.prototype={
 $0(){A.kl($.aN())
