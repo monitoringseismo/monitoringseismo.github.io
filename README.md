@@ -1,4 +1,4 @@
-# SeisAdmin
+# GeoMaint Admin
 ## Change on flutter_bootstrap.js:
 
 ```javascript
